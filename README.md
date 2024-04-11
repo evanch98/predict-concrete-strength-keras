@@ -13,4 +13,4 @@ Predict-concrete-strength deep learning model trained using Keras. This project 
 - Compare and contrast the mean of the `mean_squared_error` by tweaking the model such as:
   - the number of hidden layers
   - the number of `epochs`
-  - normalized an un-normalized inputs
+  - normalized and un-normalized inputs
